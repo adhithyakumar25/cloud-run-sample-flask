@@ -2,7 +2,7 @@
 
 ## 1. Introduction
 
-This project is a simple Flask app developed for helping to illustrate how to set up a deployment pipeline on GCP with Cloud Builder, Container Registry and Cloud Run.
+ This project code change is a simple Flask app developed for helping to illustrate how to set up a deployment pipeline on GCP with Cloud Builder, Container Registry and Cloud Run.
 
 Check the complete tutorial [here](https://medium.com/ci-t/how-to-set-up-a-deployment-pipeline-on-gcp-with-cloud-build-container-registry-and-cloud-run-73391f5b77e4).
 
